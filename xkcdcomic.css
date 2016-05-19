@@ -1,0 +1,8 @@
+#XKCDComic {
+  position: absolute;
+}
+
+#XKCDComic .title {
+  font-size: 14pt;
+  text-align: center;
+}
